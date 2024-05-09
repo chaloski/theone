@@ -31,14 +31,14 @@ Install these tools via their respective installation guides or use standard pac
 
 ## Installation and Usage
 1. **Clone the repository**:
-   ```bash
+   ```console
    git clone https://github.com/chaloski/theone.git
 
 ##Install dependencies:
 
 ##Ensure all tools are installed and accessible in your system's PATH## 
 2. **Run the script**:
-   ```bash
+   ```console
    python theone.py
 ```
 ##Subdomain Scanner Tool   
