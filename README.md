@@ -77,4 +77,4 @@ Contributions are welcome! Please fork the repository, make your improvements, a
 This project is licensed under the MIT License. See LICENSE for more details.
 
 Author
-##CHaloski
+## Chaloski
