@@ -29,6 +29,16 @@ Ensure you have the following tools installed:
 
 Install these tools via their respective installation guides or use standard package managers.
 
+##Install Dependencies
+Ensure all tools are installed and accessible in your system's PATH. You can typically install these tools using their respective package managers. Here is an example command to install subfinder, httpx, katana, and nuclei, assuming you are using a Unix-like operating system:
+
+ ```console
+   go install github.com/projectdiscovery/katana/cmd/katana@latest
+   go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+   go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+   go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+ ```
+
 ## Installation and Usage
 1. **Clone the repository**:
    ```console
@@ -41,20 +51,11 @@ Install these tools via their respective installation guides or use standard pac
    ```console
    python theone.py
 
+## Follow the prompts to enter the target IP or URL.
+
 ## Subdomain Scanner Tool   
 
 ## Installation and Usage
-
-##Install Dependencies
-Ensure all tools are installed and accessible in your system's PATH. You can typically install these tools using their respective package managers. Here is an example command to install subfinder, httpx, katana, and nuclei, assuming you are using a Unix-like operating system:
-
- ```console
-   go install github.com/projectdiscovery/katana/cmd/katana@latest
-   go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
-   go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
-   go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
- ```
-## Follow the prompts to enter the target IP or URL.
 
 ## Output Files
 - **subs.txt: Lists all discovered subdomains.**
