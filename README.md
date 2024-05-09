@@ -34,26 +34,26 @@ Install these tools via their respective installation guides or use standard pac
    ```console
    git clone https://github.com/chaloski/theone.git
 
-##Install dependencies:
+## Install dependencies:
 
-##Ensure all tools are installed and accessible in your system's PATH## 
+## Ensure all tools are installed and accessible in your system's PATH## 
 2. **Run the script**:
    ```console
    python theone.py
-```
-##Subdomain Scanner Tool   
+
+## Subdomain Scanner Tool   
 
 ## Installation and Usage
 
 ### Install Dependencies
 Ensure all tools are installed and accessible in your system's PATH. You can typically install these tools using their respective package managers. Here is an example command to install subfinder, httpx, katana, and nuclei, assuming you are using a Unix-like operating system:
 
-```bash
+```console
 sudo apt install subfinder httpx katana nuclei
 
-##Follow the prompts to enter the target IP or URL.
+## Follow the prompts to enter the target IP or URL.
 
-##Output Files
+## Output Files
 subs.txt: Lists all discovered subdomains.
 alivesub.txt: Lists subdomains confirmed as active.
 katana.txt: Results from initial vulnerability scans.
