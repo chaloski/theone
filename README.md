@@ -62,10 +62,10 @@ Ensure all tools are installed and accessible in your system's PATH. You can typ
 **katana.txt: Results from initial vulnerability scans.**
 **nuclei_results.txt: Detailed vulnerability findings from advanced scans.**
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository, make your improvements, and submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See LICENSE for more details.
 
 Author
