@@ -1,5 +1,11 @@
 # Subdomain Scanner
 
+_____ _             ___             
+|_   _| |__   ___   / _ \ _ __   ___ 
+  | | | '_ \ / _ \ | | | | '_ \ / _ \
+  | | | | | |  __/ | |_| | | | |  __/
+  |_| |_| |_|\___|  \___/|_| |_|\___| By CHaloski
+
 ## Overview
 This Python script automates the process of discovering, verifying, and scanning subdomains for vulnerabilities. It uses a combination of tools (`subfinder`, `httpx`, and `katana`) to identify subdomains, check their availability, and scan for potential security issues.
 
