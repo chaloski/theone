@@ -1,6 +1,6 @@
 # Subdomain Scanner THE ONE
 
-<img src="https://github.com/chaloski/theone/assets/121198386/d3b21db6-c2ea-4230-af61-c123c88ae713" alt="Description of the image" width="300" height="300">
+<img src="https://github.com/chaloski/theone/assets/121198386/d3b21db6-c2ea-4230-af61-c123c88ae713" alt="Description of the image" width="400" height="400">
 
 ## Overview
 This Python script automates the process of discovering, verifying, and scanning subdomains for vulnerabilities. It uses a combination of tools (`subfinder`, `httpx`, and `katana`) to identify subdomains, check their availability, and scan for potential security issues.
