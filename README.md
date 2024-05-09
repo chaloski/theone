@@ -32,7 +32,7 @@ Install these tools via their respective installation guides or use standard pac
 ## Installation and Usage## 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/chaloski/theone.git
+   git clone https://github.com/chaloski/theone.git```
 
 ##Install dependencies:
 
