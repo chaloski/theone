@@ -13,6 +13,13 @@ This Python script automates the process of discovering, verifying, and scanning
 - **Security Scanning with Katana**: Uses **katana** to perform initial vulnerability scans on active subdomains, identifying common security issues.
 - **Enhanced Vulnerability Detection with Nuclei**: Integrates **nuclei** for advanced vulnerability scanning using community-driven templates that check for a wide range of known vulnerabilities, providing deeper insights and enhanced security checks.
 
+# Features
+
+<h1 align="center">
+  <img src="https://github.com/chaloski/theone/assets/121198386/87d5fad7-5208-422d-ae75-760a5b25214f" alt="httpx" width="700px">
+  <br>
+</h1>
+
 ## Why Nuclei?
 **Nuclei** is integrated to provide:
 - **Broader Security Coverage**: Detects more vulnerabilities than traditional scanners by using a vast, community-updated template system.
