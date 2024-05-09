@@ -37,10 +37,10 @@ Install these tools via their respective installation guides or use standard pac
 ##Install dependencies:
 
 ##Ensure all tools are installed and accessible in your system's PATH
-**Run the script**:
-   ```bash```
-  python theone.py
-
+2. **Run the script**:
+   ```bash
+   python theone.py
+```
 ##Subdomain Scanner Tool   
 
 ## Installation and Usage
