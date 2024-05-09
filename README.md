@@ -76,5 +76,5 @@ Contributions are welcome! Please fork the repository, make your improvements, a
 ## License
 This project is licensed under the MIT License. See LICENSE for more details.
 
-Author
-## Chaloski
+## Author
+By Chaloski
