@@ -36,7 +36,7 @@ Install these tools via their respective installation guides or use standard pac
 
 ## Install dependencies:
 
-## Ensure all tools are installed and accessible in your system's PATH## 
+## Ensure all tools are installed and accessible in your system's PATH
 2. **Run the script**:
    ```console
    python theone.py
