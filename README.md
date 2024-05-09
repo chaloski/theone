@@ -49,7 +49,8 @@ Install these tools via their respective installation guides or use standard pac
 Ensure all tools are installed and accessible in your system's PATH. You can typically install these tools using their respective package managers. Here is an example command to install subfinder, httpx, katana, and nuclei, assuming you are using a Unix-like operating system:
 
  ```console
-   sudo apt install subfinder httpx katana nuclei
+   go install github.com/projectdiscovery/katana/cmd/katana@latest
+   go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
  ```
 ## Follow the prompts to enter the target IP or URL.##
 
