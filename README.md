@@ -22,7 +22,7 @@ You can install `subfinder`, `httpx`, and `katana` using their respective instal
 2. Ensure all dependencies are installed and properly configured.
 3. Run the script from your command line:
    ```bash
-   python subdomain_scanner.py
+   python theone.py
 Follow the on-screen prompts to enter the target IP or URL.
 Output Files
 subs.txt: Contains all discovered subdomains.
