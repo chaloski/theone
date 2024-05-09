@@ -29,7 +29,7 @@ Ensure you have the following tools installed:
 
 Install these tools via their respective installation guides or use standard package managers.
 
-## Installation and Usage
+## Installation and Usage## 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/chaloski/theone.git
