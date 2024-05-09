@@ -48,10 +48,10 @@ Install these tools via their respective installation guides or use standard pac
 ### Install Dependencies
 Ensure all tools are installed and accessible in your system's PATH. You can typically install these tools using their respective package managers. Here is an example command to install subfinder, httpx, katana, and nuclei, assuming you are using a Unix-like operating system:
 
-
-```console sudo apt install subfinder httpx katana nuclei```
-
-## Follow the prompts to enter the target IP or URL.
+ ```console
+   sudo apt install subfinder httpx katana nuclei
+ ```
+## Follow the prompts to enter the target IP or URL.##
 
 ## Output Files
 subs.txt: Lists all discovered subdomains.
