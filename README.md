@@ -57,10 +57,10 @@ Ensure all tools are installed and accessible in your system's PATH. You can typ
 ## Follow the prompts to enter the target IP or URL.
 
 ## Output Files
-**subs.txt: Lists all discovered subdomains.**
-**alivesub.txt: Lists subdomains confirmed as active.**
-**katana.txt: Results from initial vulnerability scans.**
-**nuclei_results.txt: Detailed vulnerability findings from advanced scans.**
+- **subs.txt: Lists all discovered subdomains.**
+- **alivesub.txt: Lists subdomains confirmed as active.**
+- **katana.txt: Results from initial vulnerability scans.**
+- **nuclei_results.txt: Detailed vulnerability findings from advanced scans.**
 
 ## Contributing
 Contributions are welcome! Please fork the repository, make your improvements, and submit a pull request.
